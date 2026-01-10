@@ -20,11 +20,18 @@ We can start to add constraints on the system using the fact sheet. We know the 
 |Alnylam Pharmaceuticals | Health Care|
 
 That gives us some constraints where $x_1 > x_2 > x_3  > ... > x_{10} > x_{11..281} $
+
 We also know from the fact sheet we need 281 holdings 
+
 We know median market cap is ~$14 billion
+
 We know largest stock by market cap is ~$100
+
 We know Shapre Ratios
+
 We know have positive values for those stocks/variables.
+
+-
 
 We can place reasonable guesses/bounds using fundamentals data too.
 
